@@ -9,7 +9,7 @@ Estou em constante evolução, desenvolvendo projetos práticos e aprimorando mi
 ---
 
 <p align="left">
-    <a href="https://github.com/seuusuario?tab=repositories](https://github.com/naimelima?tab=repositories)">
+    <a href="https://github.com/naimelima?tab=repositories">
         <img 
             alt="Repositórios" 
             title="Meus projetos" 
